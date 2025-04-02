@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.DS_Store
+*.egg-info/
+*.egg
+*.log
+data/
+.python-version
+uv.lock
+*.pdf
